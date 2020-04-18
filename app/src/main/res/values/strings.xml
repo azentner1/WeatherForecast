@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="err_unknown">Unknown error has occurred</string>
+    <string name="err_weather_fetch">Oops, couldn\'t fetch weather data. Please try later.</string>
+    <string name="icon_url">https://openweathermap.org/img/w/%1$s.png</string>
+    <string name="humidity_value">%1$s %%</string>
+    <string name="wind_speed_value">%1$s km/h</string>
+    <string name="temperature_value">%1$s \u2103</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind speed</string>
+</resources>
